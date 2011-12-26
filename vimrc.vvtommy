@@ -28,3 +28,5 @@ if has("multi_byte")
 
 endif
 
+"颜色
+colorscheme blackdust 
